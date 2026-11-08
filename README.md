@@ -27,3 +27,17 @@
      "semi": true
    }
    ```
+
+4. Check and format project:
+
+   Check:
+
+   ```bash
+   npx prettier . --check
+   ```
+
+   Format:
+
+   ```bash
+   npx prettier . --write
+   ```
